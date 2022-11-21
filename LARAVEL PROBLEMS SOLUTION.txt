@@ -1,0 +1,7 @@
+//ACESSE O ARQUIVO .INI E VERIFIQUE AS EXTENSOES
+
+https://cursos.alura.com.br/forum/topico-erro-na-criacao-do-projeto-142852
+
+//INICIE A APLICAÇÃO 
+
+php artisan serve
